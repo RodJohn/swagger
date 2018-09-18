@@ -39,4 +39,32 @@ api搜索
 生成doc
 
 自己的封装
+
+
+1. 生产时关闭
+
+    https://blog.csdn.net/yoursongs/article/details/79605116
+    使用SpringForAll的
+
+全局变量
+
+    
+
+token
+
+    http://fish119.site/2018/01/04/Swagger2-%E9%9D%9E%E5%85%A8%E5%B1%80Header%E5%8F%82%E6%95%B0%EF%BC%88Token%EF%BC%89%E9%85%8D%E7%BD%AE/
+    https://blog.csdn.net/billluffy/article/details/80469103
+
+PDF
+
+    https://github.com/yuzd/swagger2pdf
+
+UI
+
+    https://blog.csdn.net/tuposky/article/details/77965139
+    
+    
+做成start
+
+    https://github.com/SpringForAll/spring-boot-starter-swagger
     

@@ -1,0 +1,18 @@
+
+server:
+  port: 9100
+
+
+
+swagger:
+
+  dockets:
+    - title : "用户|联系人模块 "
+      groupName : "1.user contact"
+      urlPattern : "^/(user|contact).*"
+    - title : "部门模块 "
+      groupName : "2.dept"
+      urlPattern : "^/(dept).*"
+  globalTitle : "api "
+  globalDescription : " api list "
+
