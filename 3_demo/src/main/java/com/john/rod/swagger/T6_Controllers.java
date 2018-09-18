@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
 
 @Api(tags="控制器显示名",description="控制器功能介绍")
 @RestController
-public class Controllers {
+public class T6_Controllers {
 
 
     @ApiOperation(value="方法名", notes="方法功能介绍")
