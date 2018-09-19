@@ -8,7 +8,11 @@
 
 * [描述接口，示例参数](/doc/3_描述接口.md)
 * [接口测试](/doc/4_接口测试.md)
+
+# 拓展功能
+
 * [拓展设置](/doc/5_设置.md)
+* [自己封装](/doc/8_power.md)
 
 
 
@@ -31,13 +35,4 @@ long类型
 
 自己的封装
 
-    
-UI
-
-    https://blog.csdn.net/tuposky/article/details/77965139
-    
-    
-做成start
-
-    https://github.com/SpringForAll/spring-boot-starter-swagger
     
