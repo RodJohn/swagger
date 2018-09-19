@@ -2,4 +2,5 @@ rootProject.name = 'swagger'
 include '3_demo'
 include '8_power'
 include '1_quickstart'
+include '5_settings'
 
